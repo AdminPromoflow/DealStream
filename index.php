@@ -7,7 +7,7 @@
   <body>
     <style media="screen">
       body{
-        background-image: url("photographer.jpg"); /* The image used */
+        background-image: url("Home\Img\bg1.jpg"); /* The image used */
         height: 100vh; /* You must set a specified height */
         background-position: center; /* Center the image */
         background-repeat: no-repeat; /* Do not repeat the image */
