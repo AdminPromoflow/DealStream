@@ -5,6 +5,15 @@
     <title></title>
   </head>
   <body>
+    <style media="screen">
+      body{
+        background-image: url("photographer.jpg"); /* The image used */
+        height: 100vh; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+      }
+    </style>
     <h1>Hola</h1>
   </body>
 </html>
