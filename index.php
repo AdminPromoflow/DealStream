@@ -18,7 +18,7 @@
         position: relative;
         height: 90%;
         width: 80%;
-        background: white;
+        background: rgba(255,255,255,.6);
         top: 50%;
         left: 50%;
         transform: translate(-50%,-50%);
